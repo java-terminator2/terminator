@@ -4,5 +4,6 @@
 </head>
 <body>
 	<h1>This is temp text for github pages</h1>
+	<h2>This is text changed for git</h2>
 </body>
 </html>
