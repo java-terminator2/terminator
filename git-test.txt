@@ -1,0 +1,8 @@
+<html>
+<head>
+	<title>This is temp text</title>
+</head>
+<body>
+	<h1>This is temp text for github pages</h1>
+</body>
+</html>
