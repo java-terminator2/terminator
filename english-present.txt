@@ -1,0 +1,20 @@
+English
+==================
+
+Presents 
+
+I eat apples every day
+I'm eating this apple
+I have already eaten this apple
+I have been eating this apple since early morning
+
+
+I code on PHP every day.
+I'm coding on PHP now.
+I have already coded on PHP.
+I have been coding on PHP since early morning.
+
+I drink tea every day.
+I'm drinking the tea every day.
+I have drunk tea.
+I have been drinking this tea.
